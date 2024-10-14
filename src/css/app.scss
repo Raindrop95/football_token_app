@@ -1,0 +1,40 @@
+// app global css in SCSS form
+body.body--dark {
+  background: #191919;
+  --q-primary: #2c59e7;
+  --q-secondary: #c5c5c5;
+  --q-accent: #1c61fa;
+
+  --q-dark: #222222;
+  --q-dark-page: #191919;
+
+  --q-positive: #21ba45;
+  --q-negative: #c10015;
+  --q-info: #31ccec;
+  --q-warning: #f2c037;
+  --q-toolbar: #191919;
+  --q-iconcolor: rgb(175, 175, 175);
+  --q-bottomnav: #222222;
+  --q-carousel-control: #adadad;
+  --q-carousel-text: #ffffff;
+}
+
+.body--light {
+  background: #ececec;
+  --q-primary: #2c59e7;
+  --q-secondary: #555555;
+  --q-accent: #1c61fa;
+
+  --q-dark: #222222;
+  --q-dark-page: #191919;
+
+  --q-positive: #21ba45;
+  --q-negative: #c10015;
+  --q-info: #175c69;
+  --q-warning: #f2c037;
+  --q-toolbar: #ececec;
+  --q-iconcolor: rgb(53, 53, 53);
+  --q-bottomnav: #ffffff;
+  --q-carousel-control: #222222;
+  --q-carousel-text: #000000;
+}
